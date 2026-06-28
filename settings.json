@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "simply_craft.aternos.me:22935",
+    "ip": "simply_craft.aternos.me",
     "port": 22935,
     "version": "",
     "try-creative": false
